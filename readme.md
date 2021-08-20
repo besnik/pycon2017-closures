@@ -1,6 +1,6 @@
 # Closures in Python
 
-This is supportive material for talk `Closures in Python` presented at PyCon SK 2017.
+This is supportive material for my talk `Closures in Python` presented at PyCon SK 2017 in Bratislava, Slovakia.
 
 The aim of talk was to introduce closures concent in general to the audience.
 
