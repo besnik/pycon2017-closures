@@ -2,6 +2,8 @@
 
 This is supportive material for my talk `Closures in Python` presented at PyCon SK 2017 in Bratislava, Slovakia.
 
+[![Closures in Python](https://img.youtube.com/vi/djY0-7jNQI0/0.jpg)](https://www.youtube.com/watch?v=djY0-7jNQI0)
+
 The aim of talk was to introduce closures concent in general to the audience.
 
 Presentation includes examples also from other languages like Java, C# or Javascript.
